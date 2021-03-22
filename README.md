@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ankit  
-- 👀 I’m interested in Startups and making IoT Applications and Solutions
+- 👀 I’m interested in making AI/ML powered IoT Applications and Solutions
 - 🌱 I’m currently learnning Python, Numpy, Pandas, Machine Learning, Data Science
 - 💞️ I’m looking to collaborate and contribute on various Open Source Projects
 - 📫 Reach Me via:-
