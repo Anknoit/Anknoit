@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ankit  
+- 👋 Hi, I’m Ankit 😃
 - 👀 I’m interested in making Open Source AI/ML powered Applications and Solutions
 - 🌱 I’m currently working with Python, Numpy, Pandas, Machine Learning, Data Science
 - 💞️ I’m looking to collaborate and contribute on various Open Source Projects<br>
