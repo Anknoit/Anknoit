@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <b>Ankit</b> 😃
 - 👀 I’m interested in making Open Source AI/ML powered Applications and Solutions
-- 🌱 I’m currently working with Python, Numpy, Pandas, Machine Learning, Data Science
+- 🌱 I’m currently working with Python, Numpy, Pandas, Data Science, Machine Learning using Scikit Learn.
 - 💞️ I’m looking to collaborate and contribute on various Open Source Projects<br>
 - 📫 Reach Me via:-<br>
             1. Email - ankitjha8891@gmail.com<br>
