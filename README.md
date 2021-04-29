@@ -6,8 +6,6 @@
             1. Email - ankitjha8891@gmail.com<br>
             2. Twitter - https://twitter.com/anknoit<br>
             3. Linkedin - www.linkedin.com/in/ankit-jha-707825195/<br>
-- My Startup :- www.tasaar.com
-
 <!---
 Anknoit/Anknoit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
