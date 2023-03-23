@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>Ankit</b> 😃
-- 👀 I’m love developing and contributing to Open Source Applications and Projects.
+- 👀 I love developing and contributing to Open Source Applications and Projects.
 - 🌱 I’m currently working with Python (Django, ScikitLearn, PyGame), Javascript(MongoDB, Express, React, Node), Bash Script, SQL.
 - 💞️ Lets Create together, make a differece and be a part of something great!<br>
 - 📫 Reach Me via:-<br>
