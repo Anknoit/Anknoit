@@ -9,7 +9,7 @@ I am an Engineer trying to reverse engineer everything I come across, I have bee
 * 🌍  I'm based in Pune
 * 🖥️  See my portfolio at [My Portolio](http://anknoit.github.io/)
 * ✉️  You can contact me at [ankitjha8891@gmail.com](mailto:ankitjha8891@gmail.com)
-* 🧠  I'm learning React Native for Mobile Applications and Tensorfloe Lite for App deployment
+* 🧠  I'm learning React Native for Mobile Applications and Tensorflow Lite for App deployment
 * ⚡  I'm a programmer - I turn coffee into code.
 
 <a href="https://www.twitter.com/anknoit" target="_blank" rel="noreferrer"><img
