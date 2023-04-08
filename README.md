@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer & Analyst
 ------------------------------
 
-I am an Engineer trying to reverse engineer everything I come across, I have been coding for more than a decade now putting my hands on HTML, JavaScript (MERN) , Python (Django, ScikitLearn, Pygame, Numpy, Pandas), SQL(Postgres), and let me tell you one thing.......<br><b>I LOVE IT!!</b>
+I am an Engineer trying to reverse engineer everything I come across, I have been coding for more than a decade now putting my hands on HTML, JavaScript (MERN) , Python (Django, ScikitLearn, Pygame, Numpy, Pandas), SQL(Postgres), and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
 
 * 🌍  I'm based in Pune
 * 🖥️  See my portfolio at [My Portolio](http://anknoit.github.io/)
