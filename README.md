@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ankit Jha
 =================================================================================================================================
 
-Full Stack Developer & Analyst
-------------------------------
+Developing AI, Cloud Enabled Applications for Telecom and IoT 
+---------------------------------------------------------------
 
-I am an Engineer trying to reverse engineer everything I come across, I have been coding for more than a decade now putting my hands on HTML, JavaScript (MERN) , Python (Django, ScikitLearn, Pygame, Numpy, Pandas), SQL(Postgres), and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
+Software developer, AI enthusiast, and aspiring entrepreneur in Telecom and Finance. Passionate about building AI-driven telecom solutions, optimizing networks, and exploring global markets. and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
 
 * 🌍  I'm based in Pune
-* 🖥️  See my portfolio at [My Portolio](http://anknoit.github.io/)
+* 🖥️  See my portfolio at [My Portfolio](http://anknoit.github.io/)
 * ✉️  You can contact me at [ankitjha8891@gmail.com](mailto:ankitjha8891@gmail.com)
-* 🧠  Right now I'm learning Scikit Learn and focusing on Kaggle Portfolio.
+* 🧠  I love the idea of integration of Finance and Technology for new Investment Opportunities in the Future
 
 <a href="https://www.twitter.com/anknoit" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/anknoit?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
