@@ -4,9 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developing AI, Cloud Enabled Applications for Telecom and IoT 
 ---------------------------------------------------------------
 
-Software developer, AI enthusiast, and aspiring entrepreneur in Telecom and Finance. Passionate about building AI-driven telecom solutions, optimizing networks, and exploring global markets. and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
+Software developer, AI enthusiast, and aspiring entrepreneur in Telecom and IoT. Passionate about building AI-driven telecom solutions, optimizing networks, and exploring global markets. and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
 
-* 🌍  I'm based in Pune
 * 🖥️  See my portfolio at [My Portfolio](http://anknoit.github.io/)
 * ✉️  You can contact me at [ankitjha8891@gmail.com](mailto:ankitjha8891@gmail.com)
 * 🧠  I love the idea of integration of Finance and Technology for new Investment Opportunities in the Future
