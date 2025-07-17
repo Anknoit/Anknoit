@@ -15,7 +15,7 @@ src="https://img.shields.io/twitter/follow/anknoit?logo=twitter&style=for-the-ba
 /></a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,django,bash,postgres,mysql,js,vue,nodejs,bootstrap,html,css,linux,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,bash,postgres,mysql,js,react,nodejs,bootstrap,html,css,linux,&perline=4)](https://skillicons.dev)
 
 
 <b>My GitHub Stats</b>
