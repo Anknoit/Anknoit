@@ -21,7 +21,7 @@ src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,django,bash,postgres,mysql,js,react,nodejs,bootstrap,html,css,linux,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,mysql,js,react,nodejs,bootstrap,html,css,linux,&perline=4)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,react)](https://skillicons.dev)
