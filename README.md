@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 IoT Enthusiast | Engineer | Storyteller 
 ---------------------------------------------------------------
 
-I love building application for IoT and IIoT where I can see the devices connected and orchestrating a perfect symphony of data and streams. I have experiance in Telecom applications building, optimizing networks, and exploring global markets and finance on the side, and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
+I love building application for IoT and IIoT where I can see the devices connected and orchestrating a perfect symphony of data and streams. I have experience in Telecom applications building, optimizing networks, and exploring global markets and finance on the side, and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
 
 * 🖥️  See my portfolio at [My Portfolio](http://anknoit.github.io/)
 * ✉️  You can contact me at [ankitjha8891@gmail.com](mailto:ankitjha8891@gmail.com)
