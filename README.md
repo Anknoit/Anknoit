@@ -3,10 +3,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Iam Ankit!
 =================================================================================================================================
 
-IoT Enthusiast | Engineer | Storyteller 
+Engineer | Finance Data Systems | IoT Enthusiast 
 ---------------------------------------------------------------
 
-I love building application for IoT and IIoT where I can see the devices connected and orchestrating a perfect symphony of data and streams. I have experience in Telecom applications building, optimizing networks, and exploring global markets and finance on the side, and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
+I love building applications whether it’s connected devices (IoT/IIoT) or financial markets (equities, bonds, macro) and exploring their intersection.
+Experienced in telecom applications, data pipelines, and Python, SQL engineering, I’m now focusing on financial research, portfolio analytics, and risk management systems.
+Exploring the world of global markets and capital flows, while keeping my IoT roots alive in how I design and optimize real-time data systems., and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
 
 * 🖥️  See my portfolio at [My Portfolio](http://anknoit.github.io/)
 * ✉️  You can contact me at [ankitjha8891@gmail.com](mailto:ankitjha8891@gmail.com)
@@ -17,11 +19,11 @@ src="https://img.shields.io/twitter/follow/anknoit?logo=twitter&style=for-the-ba
 src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-jha-707825195/"
 /></a>
 
-* 🧠  I love the idea of integration of Finance and Technology for new Investment Opportunities in the Future
+* 🧠  I love the idea of integration of Finance and IoT, generating Alternative data sources for new Investment Opportunities in the Future
 
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,mysql,js,react,nodejs,bootstrap,html,css,linux,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,fastapi,mysql,js,react,bootstrap,html,css,linux,&perline=4)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=azure,react)](https://skillicons.dev)
