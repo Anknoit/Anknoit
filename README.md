@@ -7,7 +7,7 @@ Engineer | Commodities & Finance Data Systems | Backend + IoT + Markets
 ------------------------------------------------------------------------
 
 I love building applications whether it’s connected devices (IoT/IIoT) or Global markets (commodities, energy, metals) and exploring their intersection.
-Experienced in telecom applications, data pipelines, and Python, SQL engineering, I’m now focusing on Global research, Energy analytics, and risk management systems.
+Experienced in telecom applications, data pipelines, and Python, SQL engineering, I’m working on Global research, Energy analytics, and risk management systems.
 Exploring the world of global markets and capital flows, while keeping my IoT roots alive, I design and optimize real-time data systems, and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
 
 * 🖥️  See my portfolio at [My Portfolio](http://anknoit.github.io/)
