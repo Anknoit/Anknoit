@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Iam Ankit!
 =================================================================================================================================
 
-Engineer | Commodities & Finance Data Systems | Backend + IoT + Markets
+Engineer | Energy & Finance Data Systems | Backend + IoT + Markets
 ------------------------------------------------------------------------
 
 I love building applications whether it’s connected devices (IoT/IIoT) or Global markets (commodities, energy, metals) and exploring their intersection.
