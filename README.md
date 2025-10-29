@@ -3,12 +3,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Iam Ankit!
 =================================================================================================================================
 
-Engineer | Energy & Finance Data Systems | Backend + IoT + Markets
-------------------------------------------------------------------------
+Engineer | Telecom & Cloud Data Systems | Python • Golang • FastAPI • Analytics Pipelines
+--------------------------------------------------------------------------------------------
 
-I love building applications whether it’s connected devices (IoT/IIoT) or Global markets (commodities, energy, metals) and exploring their intersection.
-Experienced in telecom applications, data pipelines, and Python, SQL engineering, I’m working on Global research, Energy analytics, and risk management systems.
-Exploring the world of global markets and capital flows, while keeping my IoT roots alive, I design and optimize real-time data systems, and let me tell you one thing.......<br><b>I LOVE IT ❤️!!</b>
+I build data systems that power real-time intelligence from telecom and network analytics to energy and markets. My work lies at the intersection of data pipelines, cloud infrastructure, and intelligent automation.
+
+I believe every byte has a story — <b>My mission is to make systems smart enough to tell it.</b>
+
+Python ⚡ Golang ⚡ FastAPI ⚡ SQL ⚡ Cloud
+
 
 * 🖥️  See my portfolio at [My Portfolio](http://anknoit.github.io/)
 * ✉️  You can contact me at [ankitjha8891@gmail.com](mailto:ankitjha8891@gmail.com)
