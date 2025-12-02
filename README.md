@@ -3,14 +3,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Iam Ankit!
 =================================================================================================================================
 
-Engineer | Telecom & Cloud Data Systems | Python • Golang • FastAPI • Analytics Pipelines
---------------------------------------------------------------------------------------------
+AI & Backend Engineer | GenAI, Agentic AI, Data Engineering | Python • FastAPI • SQL • Golang
+------------------------------------------------------------------------------------------------
 
-I build data systems that power real-time intelligence from telecom and network analytics to energy and markets. My work lies at the intersection of data pipelines, cloud infrastructure, and intelligent automation.
+I build AI-powered decision systems, tools that think, analyze, and act.
+My work blends GenAI, agentic workflows, and data engineering to create intelligent platforms across markets, infrastructure, and networks.
 
-I believe every byte has a story — <b>My mission is to make systems smart enough to tell it.</b>
+I enjoy turning raw data and complex systems into clarity, automation, and insight, whether through LLM agents, real-time pipelines, or backend architectures and create a production ready product that can be used with ease by anyone and everyone.
 
-Python ⚡ Golang ⚡ FastAPI ⚡ SQL ⚡ Cloud
+Tech I work with:
+Python ⚡ FastAPI ⚡ SQL ⚡ Golang ⚡ Cloud ⚡ LLMs ⚡ RAG ⚡ Agentic AI
 
 
 * 🖥️  See my portfolio at [My Portfolio](http://anknoit.github.io/)
