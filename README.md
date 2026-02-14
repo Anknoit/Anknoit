@@ -3,11 +3,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Iam Ankit!
 =================================================================================================================================
 
-AI & Backend Engineer | GenAI, Agentic AI, Data Engineering | Python • FastAPI • SQL • Golang
+Product Engineer | GenAI, Agentic AI, Data Engineering | Python • FastAPI • SQL • Golang
 ------------------------------------------------------------------------------------------------
 
 I build AI-powered decision systems, tools that think, analyze, and act.
-My work blends GenAI, agentic workflows, and data engineering to create intelligent platforms across markets, infrastructure, and networks.
+My work blends GenAI, agentic workflows, and Product engineering to create intelligent platforms across markets, infrastructure, and networks.
 
 I enjoy turning raw data and complex systems into clarity, automation, and insight, whether through LLM agents, real-time pipelines, or backend architectures and create a production ready product that can be used with ease by anyone and everyone.
 
