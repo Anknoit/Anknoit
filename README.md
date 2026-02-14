@@ -3,7 +3,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Iam Ankit!
 =================================================================================================================================
 
-Product Engineer | GenAI, Agentic AI, Data Engineering | Python • FastAPI • SQL • Golang
+Product Engineer | Python • FastAPI • SQL • Golang
 ------------------------------------------------------------------------------------------------
 
 I build AI-powered decision systems, tools that think, analyze, and act.
