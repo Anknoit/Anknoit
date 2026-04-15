@@ -6,13 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Product Engineer | Python • FastAPI • SQL • Golang
 ------------------------------------------------------------------------------------------------
 
-I build AI-powered decision systems, tools that think, analyze, and act.
-My work blends GenAI, agentic workflows, and Product engineering to create intelligent platforms across markets, infrastructure, and networks.
-
-I enjoy turning raw data and complex systems into clarity, automation, and insight, whether through LLM agents, real-time pipelines, or backend architectures and create a production ready product that can be used with ease by anyone and everyone.
-
-Tech I work with:
-Python ⚡ FastAPI ⚡ SQL ⚡ Golang ⚡ Cloud ⚡ LLMs ⚡ RAG ⚡ Agentic AI
+I build infrastructure that doesn't break and AI that actually works.
+Day job: Telecom core network — DIAMETER, AAA, IPLMS, OSS/BSS. The unglamorous systems that ISPs and MVNOs depend on at 3am.
+Side: Building AI-powered systems for telecoms and IoT operators — real-time data pipelines, LLM agents, and agentic automation that turns raw network data into decisions. Available for select freelance engagements.
+Core stack:
+Go · Python · Kafka · FastAPI · DIAMETER · FreeRADIUS · LLMs · RAG · Docker · SQL
 
 
 * 🖥️  See my portfolio at [My Portfolio](http://anknoit.github.io/)
